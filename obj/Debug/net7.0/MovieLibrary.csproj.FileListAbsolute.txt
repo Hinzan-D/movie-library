@@ -1,0 +1,15 @@
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/bin/Debug/net7.0/MovieLibrary
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/bin/Debug/net7.0/MovieLibrary.deps.json
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/bin/Debug/net7.0/MovieLibrary.runtimeconfig.json
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/bin/Debug/net7.0/MovieLibrary.dll
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/bin/Debug/net7.0/MovieLibrary.pdb
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.csproj.AssemblyReference.cache
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.AssemblyInfoInputs.cache
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.AssemblyInfo.cs
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.csproj.CoreCompileInputs.cache
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.dll
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/refint/MovieLibrary.dll
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.pdb
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/MovieLibrary.genruntimeconfig.cache
+/Users/hinzan/Desktop/Personal Projects/MovieLibrary/obj/Debug/net7.0/ref/MovieLibrary.dll
